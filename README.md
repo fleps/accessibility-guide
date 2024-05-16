@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align='center'> A11y Series - a introduction to Web Accessibility </h1>
+<h1 align='center'> A11y Series - introduction to Web Accessibility </h1>
 <br><br>
 
 ## 🕰️ A bit of history 
