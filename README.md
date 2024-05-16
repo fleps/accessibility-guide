@@ -1,4 +1,13 @@
-# A11y Series - a introduction to Web Accessibility
+<div align="center">
+<img src="a11y-black.png" />  
+</div>
+
+<br><br>
+
+###
+
+<h1 align='center'> A11y Series - a introduction to Web Accessibility </h1>
+<br><br>
 
 ## 🕰️ A bit of history 
 <details>
@@ -21,7 +30,7 @@ After working with it for months,  I decided to write an internal **Accessibilit
 
 ## ✅ The series
 
-To make it easier to create and maintain (let's be honest, very long Markdowns aren't great to create), I decided to publish it on [**Notion**](https://www.notion.so/), as their editor offers very good formatting elements / options, **Dark/Light mode** (use `Control + L` to switch!) and if authenticated, **readers can comment** to contribute, point some mistake, etc!
+To make it easier to create and maintain (let's be honest, very long Markdowns aren't great to create), I decided to publish it on [**Notion**](https://www.notion.so/), as their editor offers very good formatting elements / options, **Dark/Light mode** (use `Control + Shift + L` to switch!) and if authenticated, **readers can comment** to contribute, point some mistake, etc!
 
 The original guide had several pages when I wrote, but for the series I decided to restructure it and compile on 3 pages, revising links, texts, information, etc. Hope this serves someone on their journey to accessibility.
 ## 
