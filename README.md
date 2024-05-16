@@ -12,7 +12,7 @@
 ## 🕰️ A bit of history 
 <details>
 <summary>Click to read</summary>
-In 2018, an e-commerce client of the company I was working at the time received a formal complaint from the US Department that handles the **ADA Law** - responsible for Disability rights in the US.
+In 2018, an e-commerce client of the company I was working at the time received a formal complaint from the US Department that handles the ADA Law - responsible for Disability rights in the US.
 
 When this happens, usually the website is given a time-frame to make their site in compliance with Accessibility Guidelines, which was this case.
 
